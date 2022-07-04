@@ -1,16 +1,12 @@
-### Hi there 👋 I'm Owethu Sotomela
+### Hi there 👋  I'm  ✨ Owethu Sotomela ✨
 
-
-**OwethuSotomela/OwethuSotomela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Building IOS apps
+- 👯 I’m looking to collaborate on Building IOS / Android apps
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm a Creative Writer
 
