@@ -1,7 +1,7 @@
 ### Hi there 👋  I'm  ✨ Owethu Sotomela ✨
 
 
- * 🔭 I’m currently working on "Q-Not App"
+ * 🔭 I’m currently working on "airbnbmernstack App"
  * 🌱 I’m also learning Flutter
  * 👯 I’m looking to collaborate on Building IOS / Android apps
  * 🤔 I’m looking for help with finding a Junior Web Developer Role
