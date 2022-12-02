@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm  ✨ Owethu Sotomela ✨
 
-![](https://komarev.com/ghpvc/?username=OwethuSotomela&color=ff69b4&label=Owethu Sotomela's+Profile+Views)
+![](https://komarev.com/ghpvc/?username=OwethuSotomela&&label=Owethu Sotomela's+Profile+Views&color=ff69b4)
 
  * 🔭 I’m currently working on "airbnbmernstack App"
  * 🌱 I’m also learning Flutter
