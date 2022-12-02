@@ -1,5 +1,6 @@
 ### Hi there 👋  I'm  ✨ Owethu Sotomela ✨
 
+![](https://komarev.com/ghpvc/?OwethuSotomela=your-github-username&color=ff69b4)
 
  * 🔭 I’m currently working on "airbnbmernstack App"
  * 🌱 I’m also learning Flutter
