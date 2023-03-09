@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=OwethuSotomela&label=Owethu+Sotomela's+Profile+Views&color=ff69b4)
 
  * 🔭 I’m currently working on "airbnbmernstack App"
- <!-- * 🌱 I’m also learning Flutter -->
  * 👯 I’m looking to collaborate on Building IOS / Android apps
  * 🤔 I’m looking for help with finding Full-Stack Developer Roles
  * 💬 Ask me about anything else you would like to know
