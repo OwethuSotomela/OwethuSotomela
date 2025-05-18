@@ -4,8 +4,8 @@
 
 <!--  * 🔭 I’m currently working on "airbnbmernstack App" -->
 <!--  * 👯 I’m looking to collaborate on Building IOS / Android apps -->
-	•	🚀 Full Stack Developer & Software Tester
-	•	💬 Ask me anything tech-related
-	•	📫 Reach me on LinkedIn
-	•	⚡ Fun fact: I’m also a Creative Writer ✍️
+	* 🚀 Full Stack Developer & Software Tester
+	* 💬 Ask me anything tech-related
+	* 📫 Reach me on LinkedIn
+	* ⚡ Fun fact: I’m also a Creative Writer ✍️
 
