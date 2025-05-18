@@ -6,6 +6,6 @@
 <!--  * 👯 I’m looking to collaborate on Building IOS / Android apps -->
 	* 🚀 Full Stack Developer & Software Tester
 	* 💬 Ask me anything tech-related
-	* 📫 Reach me on LinkedIn
+	* 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/owethu-sotomela-097940106/)
 	* ⚡ Fun fact: I’m also a Creative Writer ✍️
 
