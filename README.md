@@ -27,7 +27,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| **SotoPrime Web App** | Business management dashboard | React, Node.js, MongoDB |
+| **SotoPrime TechSolutions Web App** | Business management dashboard | Vue.js, MongoDB |
 | **Smart Gadgets Store** | Online tech shop | HTML, Tailwind, Firebase |
 | **Testing Toolkit** | Custom testing utilities for web apps | Jest, Cypress |
 
